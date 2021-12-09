@@ -2,12 +2,12 @@
 Windows RID Hijacking persistence technique (RID劫持 影子账户 账户克隆).
 
 ## 执行方式
-1.`RidHelper.exe a` 
-   运行可执行文件添加任意参数将输出当前账户信息和使用提示；
-2. `RidHelper.exe administrator admin$`
-   将admin$ 克隆成  administrator 用户
-3. `RidHelper.exe administrator guest 123`
-   将 guest 克隆成  administrator 用户,并设置密码为123，同时启用guest.
+1.`RidHelper.exe a`   
+   运行可执行文件添加任意参数将输出当前账户信息和使用提示；  
+2. `RidHelper.exe administrator admin$`  
+   将admin$ 克隆成  administrator 用户  
+3. `RidHelper.exe administrator guest 123`  
+   将 guest 克隆成  administrator 用户,并设置密码为123，同时启用guest.  
 
 ## 运行截图
 ![提示信息](https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/main.png)  
