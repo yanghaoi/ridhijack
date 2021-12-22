@@ -9,7 +9,7 @@ Windows RID Hijacking persistence technique (RID劫持 影子账户 账户克隆
 
 ## 运行截图
 ![提示信息](https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/main.png)  
-
+<img src="https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/main.png">
 ![使用guest](https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/guest.png)  
 <img src="https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/guest.png">
 ![SHOWGIF](https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/show.gif)  
