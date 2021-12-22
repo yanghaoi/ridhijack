@@ -11,8 +11,9 @@ Windows RID Hijacking persistence technique (RID劫持 影子账户 账户克隆
 ![提示信息](https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/main.png)  
 
 ![使用guest](https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/guest.png)  
-
+<img src="https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/guest.png">
 ![SHOWGIF](https://cdn.jsdelivr.net/gh/yanghaoi/ridhijack/images/show.gif)  
+
 
 ## 实现原理
 1.通过在SAM注册表中替换用户对应的F值。
